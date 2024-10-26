@@ -1,0 +1,14 @@
+.login-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; 
+  background: linear-gradient(to right, #3fbff6, #7b91fe);
+
+}
+
+.container {
+  width: 100%;
+}
+
+
